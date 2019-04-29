@@ -1,0 +1,11 @@
+C:\Users\gail6\OneDrive\Desktop\Alexandra\Alexandra\bin\Debug\netcoreapp2.2\Alexandra.deps.json
+C:\Users\gail6\OneDrive\Desktop\Alexandra\Alexandra\bin\Debug\netcoreapp2.2\Alexandra.runtimeconfig.json
+C:\Users\gail6\OneDrive\Desktop\Alexandra\Alexandra\bin\Debug\netcoreapp2.2\Alexandra.runtimeconfig.dev.json
+C:\Users\gail6\OneDrive\Desktop\Alexandra\Alexandra\bin\Debug\netcoreapp2.2\Alexandra.dll
+C:\Users\gail6\OneDrive\Desktop\Alexandra\Alexandra\bin\Debug\netcoreapp2.2\Alexandra.pdb
+C:\Users\gail6\OneDrive\Desktop\Alexandra\Alexandra\obj\Debug\netcoreapp2.2\Alexandra.csprojAssemblyReference.cache
+C:\Users\gail6\OneDrive\Desktop\Alexandra\Alexandra\obj\Debug\netcoreapp2.2\Alexandra.csproj.CoreCompileInputs.cache
+C:\Users\gail6\OneDrive\Desktop\Alexandra\Alexandra\obj\Debug\netcoreapp2.2\Alexandra.AssemblyInfoInputs.cache
+C:\Users\gail6\OneDrive\Desktop\Alexandra\Alexandra\obj\Debug\netcoreapp2.2\Alexandra.AssemblyInfo.cs
+C:\Users\gail6\OneDrive\Desktop\Alexandra\Alexandra\obj\Debug\netcoreapp2.2\Alexandra.dll
+C:\Users\gail6\OneDrive\Desktop\Alexandra\Alexandra\obj\Debug\netcoreapp2.2\Alexandra.pdb
