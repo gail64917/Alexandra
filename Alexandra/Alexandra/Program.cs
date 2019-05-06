@@ -86,8 +86,11 @@ namespace Alexandra
             {
                 L = Convert.ToSingle(rd.Next(leftSide, rightSide)) / 1000;
 
-                r1 = rd.Next(0, 2);
-                r2 = rd.Next(0, 2);
+                int threshold = 30; //30% - вероятность, что примет 0, 70% - вероятность, что примет 1. Значение threshold располагается в диапазоне 0-100.
+
+                r1 = rd.Next(0, 101) > threshold ? 1 : 0;
+                r2 = rd.Next(0, 101) > threshold ? 1 : 0;
+
                 z = rd.Next(0, 2);
 
 

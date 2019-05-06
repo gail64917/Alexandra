@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gail6\\OneDrive\\Desktop\\Alexandra\\Alexandra\\Alexandra.csproj": {}
+    "C:\\Users\\gail6\\OneDrive\\Desktop\\AlexandraRepo\\Alexandra\\Alexandra\\Alexandra\\Alexandra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gail6\\OneDrive\\Desktop\\Alexandra\\Alexandra\\Alexandra.csproj": {
+    "C:\\Users\\gail6\\OneDrive\\Desktop\\AlexandraRepo\\Alexandra\\Alexandra\\Alexandra\\Alexandra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gail6\\OneDrive\\Desktop\\Alexandra\\Alexandra\\Alexandra.csproj",
+        "projectUniqueName": "C:\\Users\\gail6\\OneDrive\\Desktop\\AlexandraRepo\\Alexandra\\Alexandra\\Alexandra\\Alexandra.csproj",
         "projectName": "Alexandra",
-        "projectPath": "C:\\Users\\gail6\\OneDrive\\Desktop\\Alexandra\\Alexandra\\Alexandra.csproj",
+        "projectPath": "C:\\Users\\gail6\\OneDrive\\Desktop\\AlexandraRepo\\Alexandra\\Alexandra\\Alexandra\\Alexandra.csproj",
         "packagesPath": "C:\\Users\\gail6\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gail6\\OneDrive\\Desktop\\Alexandra\\Alexandra\\obj\\",
+        "outputPath": "C:\\Users\\gail6\\OneDrive\\Desktop\\AlexandraRepo\\Alexandra\\Alexandra\\Alexandra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",
