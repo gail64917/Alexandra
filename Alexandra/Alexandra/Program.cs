@@ -77,6 +77,7 @@ namespace Alexandra
             matrixResult = GetMatrixResult(CurrentPlayer1Choice, CurrentPlayer2Choice, L, result);
 
             Console.WriteLine("\r\n\r\nШаг {0}: игрок1 = {1}, игрок2 = {2}", step, CurrentPlayer1Choice, CurrentPlayer2Choice);
+            Console.WriteLine("у1 = {0}, y2 = {1}", y1, y2);
             Console.WriteLine(matrixResult);
             #endregion
 
